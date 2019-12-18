@@ -2,6 +2,8 @@
 
 #Dependencies
 
+Python2.7
+
 Killerbee:
 https://github.com/riverloopsec/killerbee
 
