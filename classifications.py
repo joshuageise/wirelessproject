@@ -69,7 +69,7 @@ def case_1(filename):
         errors.append('Anamoly Detected: Morning Alerts exceeded threshold')
     
     if time_dict['A'] > A_THRESH:
-        errors.append('Anamoly Detected:Afternoon Alerts exceeded threshold')
+        errors.append('Anamoly Detected: Afternoon Alerts exceeded threshold')
 
     if time_dict['E'] > E_THRESH:
         errors.append('Anamoly Detected: Evening Alerts exceeded threshold')
